@@ -57,8 +57,8 @@ for i in range(len(departing)):
         if data[i]<price_goal:
             
             #Email info
-            sender = 'francois.stamant1994@gmail.com'
-            password = 'Patate2011!!'
+            sender = 'YOUR EMAIL HERE'
+            password = 'YOUR EMAIL PASSWORD HERE'
             port = 465
             receive = sender
            
