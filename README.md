@@ -14,3 +14,4 @@ To read about the code, go here: https://towardsdatascience.com/how-to-find-chea
 
 1. Python 3 
 2. Chrome driver installation: https://chromedriver.chromium.org/
+3. Requirements.txt (install with pip install -r requirements.txt)
