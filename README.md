@@ -6,7 +6,7 @@ Code that scrapes flights from https://www.ca.kayak.com/flights for specified da
 
 Way to buy cheap flights, avoid paying high prices.
 
-flight_scraping.py file contains the full code
+flight_scraping.py file contains the entire code
 
 To read about the code, go right here: https://towardsdatascience.com/how-to-find-cheap-flights-in-80-lines-of-code-ba4f492587db
 
