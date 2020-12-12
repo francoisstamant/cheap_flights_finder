@@ -4,7 +4,7 @@
 
 Code that scrapes flights from https://www.ca.kayak.com/flights for specified dates/destinations. If price found is deemed low enough for the user, an email alert with the site URL is sent to specified email address. Code can be run periodically using a task scheduler (Windows in my case). For a tutorial on how to do this: https://towardsdatascience.com/automate-your-python-scripts-with-task-scheduler-661d0a40b279
 
-Way to buy cheap flights, avoid paying high prices.
+Way to buy cheap flights, avoid paying high prices. Hopefully I could help!
 
 flight_scraping.py file contains the entire code
 
