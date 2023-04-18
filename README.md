@@ -8,7 +8,7 @@ Way to buy cheap flights, avoid paying high prices. Hopefully I could help!
 
 flight_scraping.py file contains the entire code
 
-To read about the code, go right here: https://towardsdatascience.com/how-to-find-cheap-flights-in-80-lines-of-code-ba4f492587db
+To read about the code, please go right here: https://towardsdatascience.com/how-to-find-cheap-flights-in-80-lines-of-code-ba4f492587db
 
 
 # Prerequisites
